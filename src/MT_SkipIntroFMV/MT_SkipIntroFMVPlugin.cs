@@ -4,9 +4,8 @@ using MT_SkipIntroFMV.Config;
 
 namespace MT_SkipIntroFMV
 {
-    [BepInPlugin("rawsome.modster-train.skip-intro-fmv", "Skip Intro FMV", "1.0.0.0")]
+    [BepInPlugin("rawsome.modster-train.skip-intro-fmv", "Skip Intro FMV", "2.0.0.0")]
     [BepInProcess("MonsterTrain.exe")]
-    [BepInProcess("MtLinkHandler.exe")]
     class MT_SkipIntroFMVPlugin : BaseUnityPlugin
     {
         void Awake()
