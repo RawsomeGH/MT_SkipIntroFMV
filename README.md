@@ -4,7 +4,7 @@ Monster Train Patch that skips the intro FMV
 ## Installing the plugin
 Set up BepInEx for Monster Train as explained in [BepInex docs](https://bepinex.github.io/bepinex_docs/v5.0/articles/user_guide/installation.html).
 
-Put MT_SkipIntroFMV.dll into `BepInEx\plugins`.
+Download the latest MT_SkipIntroFMV.dll from the [Releases page](https://github.com/RawsomeGH/MT_SkipIntroFMV/releases) and put it into `BepInEx\plugins`.
 
 ## Configuring the plugin
 This plugin will create the config file `rawsome.modster-train.skip-intro-fmv.cfg` in `Bepinex\config` once you start the game after installing the plugin.
